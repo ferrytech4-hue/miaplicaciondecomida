@@ -1,0 +1,6 @@
+{
+  "name": "MiPedido Express",
+  "description": "Plataforma gastronómica con marketplace, tiendas con marca propia, cocina rápida KDS, caja POS y pedidos por WhatsApp para Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
